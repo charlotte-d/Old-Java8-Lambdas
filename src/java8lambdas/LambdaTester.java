@@ -13,7 +13,7 @@ import javax.swing.JPanel;
  * LambdaTester
  * 11/6/17
  *  Creates random buttons to practice with lambdas from Java 8
- * @author CharlotteDye
+ * @author Charlotte Dye    
  *
  */
 public class LambdaTester {
